@@ -1,3 +1,1 @@
-# Light-Switch
-
-# a simple website that simulates a light switch 
+# A simple website that simulates a light switch 
