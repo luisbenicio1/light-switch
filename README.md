@@ -2,7 +2,7 @@
 
 <p> project just for fun </p>
 
-## ✨Technologies 
+# ✨Technologies 
 
 technologies used:
 
