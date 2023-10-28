@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+body.light-theme {
+    background-color: #e6e6bd;
+    color: #333;
+}
+
+body.dark-theme {
+    background-color: #333;
+    color: #fff;
+}
+
+#switch {
+    cursor: pointer;
+}
