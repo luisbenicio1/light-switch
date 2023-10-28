@@ -1,1 +1,11 @@
-# A simple website that simulates a light switch 
+# Light-Switch
+
+<p> project just for fun </p>
+
+## technologies 
+
+technologies used:
+
+- HTML
+- CSS
+- JS
