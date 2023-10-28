@@ -1,8 +1,8 @@
-# Light-Switch
+# 💡Light-switch
 
 <p> project just for fun </p>
 
-## technologies 
+## ✨Technologies 
 
 technologies used:
 
