@@ -1,6 +1,6 @@
 # 💡Light-switch
 
-<p> project just for fun </p>
+<p> project just for fun, website that simulates a light switch</p>
 
 # ✨Technologies 
 
